@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "episode_id": 4,
+      "img": "https://upload.wikimedia.org/wikipedia/tr/8/85/Harry_Potter_and_the_Goblet_of_Fire_%28film%2C_2005%29.jpg",
+      "url": "https://swapi.dev/api/films/1/"
+    },
+    {
+      "title": "Time To Love",
+      "episode_id": 5,
+      "img": "https://m.media-amazon.com/images/M/MV5BZWIyNjU0MmEtNjVhOC00ZDY1LTgxMDItZjE4MGY4YWJiZmE2XkEyXkFqcGdeQXVyNjgxODk1MTM@._V1_.jpg",
+      "url": "https://swapi.dev/api/films/2/"
+    },
+    {
+      "title": "The Lords of the Rings",
+      "episode_id": 6,
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Lord_of_the_Rings%2C_T2T_%282002%29.jpg",
+      "url": "https://swapi.dev/api/films/3/"
+    },
+    {
+      "title": "Fantastic Beasts and Where to Find Them",
+      "episode_id": 1,
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/FBAWTFT-poster.jpg",
+      "url": "https://swapi.dev/api/films/4/"
+    },
+    {
+      "title": "Aftersun",
+      "episode_id": 2,
+      "img": "https://m.media-amazon.com/images/M/MV5BMTM3OTU0ZGUtNzYwYy00ODU3LWI3YjgtOWZlODliMmRiMWEzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",
+      "url": "https://swapi.dev/api/films/5/"
+    },
+    {
+      "title": "Before Sunrise",
+      "episode_id": 3,
+      "img": "https://filmlibrary.ie/cdn/shop/products/before-sunrise-1-poster_1200x1200.jpg?v=1605646124",
+      "url": "https://swapi.dev/api/films/6/"
+    }
+  ]
+}
